@@ -1,5 +1,6 @@
 # 🏥 End-to-End NHIS Claims Audit Pipeline (Nigeria)
 
+
 ## 📌 Executive Summary
 This project builds a full-scale clinical data pipeline analyzing 1,000 synthetic National Health Insurance Scheme (NHIS) claims across major teaching hospitals in Nigeria. The solution uncovers financial leakage patterns, documentation errors, and diagnostic discrepancies.
 

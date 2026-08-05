@@ -1,4 +1,5 @@
 # 🏥 End-to-End NHIS Claims Audit Pipeline (Nigeria)
+![NHIS Claims Dashboard](NHIS_Claim_Analysis_Dashboard.png)
 
 
 ## 📌 Executive Summary

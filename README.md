@@ -2,7 +2,7 @@
 ![NHIS Claims Dashboard](NHIS_Claim_Analysis_Dashboard.png)
 
 ## 📌 Executive Summary
-This project builds a full-scale clinical data pipeline analyzing 1,000 synthetic National Health Insurance Scheme (NHIS) claims across major teaching hospitals in Nigeria. The solution uncovers financial leakage patterns, documentation errors, and diagnostic discrepancies — surfacing where claim rejections are concentrated and why, to support tariff and policy decisions.
+This project builds a full-scale clinical data pipeline analyzing 1,000 synthetic National Health Insurance Scheme (NHIS) claims across major teaching hospitals in Nigeria. The solution uncovers financial leakage patterns, documentation errors, and diagnostic discrepancies - surfacing where claim rejections are concentrated and why, to support tariff and policy decisions.
 
 ## 🛠️ Tech Stack & Workflow Architecture
 1. **Python (Pandas/NumPy):** Data generation engine mapping regional costs and simulating transactional insurance claims across hospitals, diagnoses, and geopolitical zones.
@@ -26,7 +26,7 @@ This project builds a full-scale clinical data pipeline analyzing 1,000 syntheti
 - Regional cost mappings are simplified estimates and should not be used for real tariff-setting without validation against actual NHIS rate schedules.
 
 ## 📂 Repository Contents
-- `/data_generation/` — Python scripts used to generate the synthetic claims dataset
-- `/sql/` — MySQL schema and audit queries
-- `/powerbi/` — Power BI (.pbix) dashboard file
-- `/screenshots/` — Dashboard preview images
+- `nigeria_nhis_claim.ipynb` - Python scripts used to generate the synthetic claims dataset
+- `hospital_rejection_query.sql` - MySQL schema and audit queries
+- `NHIS Analysis` - Power BI (.pbix) dashboard file
+- `NHIS_Claim_Analysis_Dashboard` - Dashboard preview images
